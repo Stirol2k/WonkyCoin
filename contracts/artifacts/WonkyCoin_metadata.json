@@ -448,10 +448,10 @@
 	},
 	"sources": {
 		"contracts/wonkycoin.sol": {
-			"keccak256": "0x9847991ba69654bd981151421077a87749f4c90f5a632c01b3bb60f8e6747376",
+			"keccak256": "0xc9c2c1872b72e8454a4dc0381fc9f72822d61f8da48a0aa31143cf260124fe68",
 			"urls": [
-				"bzz-raw://490c58fa3e924d3b0d75d0f0bb2a6c1ca928eca4867570c25c14b31d56b73a80",
-				"dweb:/ipfs/QmXDDfj9HFC5FzwEAvzgtRFuEmiHVd7CcamN7RXmpP9zXo"
+				"bzz-raw://5bda4235ccda644eedc02824df50b84f85faba283add2e94101817810b64bc6b",
+				"dweb:/ipfs/QmeNK7u8rG9sEV4MoPic1X7oeXC265mcJpJdCswHG7Dd6i"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/draft-IERC6093.sol": {
