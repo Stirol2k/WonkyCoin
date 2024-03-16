@@ -331,6 +331,8 @@
 			}
 		],
 		"devdoc": {
+			"custom:dev-run-script": "scripts/deploy_with_ethers.ts",
+			"details": "ContractDescription",
 			"errors": {
 				"ERC20InsufficientAllowance(address,uint256,uint256)": [
 					{
@@ -423,6 +425,7 @@
 					"details": "See {IERC20-transferFrom}. Emits an {Approval} event indicating the updated allowance. This is not required by the ERC. See the note at the beginning of {ERC20}. NOTE: Does not update the allowance if the current allowance is the maximum `uint256`. Requirements: - `from` and `to` cannot be the zero address. - `from` must have a balance of at least `value`. - the caller must have allowance for ``from``'s tokens of at least `value`."
 				}
 			},
+			"title": "WonkyCoin",
 			"version": 1
 		},
 		"userdoc": {
@@ -448,10 +451,10 @@
 	},
 	"sources": {
 		"contracts/wonkycoin.sol": {
-			"keccak256": "0xc9c2c1872b72e8454a4dc0381fc9f72822d61f8da48a0aa31143cf260124fe68",
+			"keccak256": "0x4bd44529b927e79924917f3f5987569b2725406964d3a57f0255cfc403003eda",
 			"urls": [
-				"bzz-raw://5bda4235ccda644eedc02824df50b84f85faba283add2e94101817810b64bc6b",
-				"dweb:/ipfs/QmeNK7u8rG9sEV4MoPic1X7oeXC265mcJpJdCswHG7Dd6i"
+				"bzz-raw://2c94457e51c9400b87e0a588c5d0ef882b4fde102999dea2189b66821a5fbc0d",
+				"dweb:/ipfs/QmR4WSckenvmgt3GLCUc3NrrFS5fH9DxmPrJgqWHW1dyWr"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/draft-IERC6093.sol": {
